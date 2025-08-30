@@ -45,7 +45,7 @@ app.*.map.json
 /android/app/release
 
 # Exclude desktop and web platform folders
-macos/
-linux/
-windows/
-web/
+/macos/
+/linux/
+/windows/
+/web/
